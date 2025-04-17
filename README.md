@@ -9,7 +9,7 @@ This community aims to empower the people from the Asian diaspora to integrate i
 - Welcoming & onboarding Asian OSS contributors
   - If you're interested in helping us, check out [New Contributor Welcome Committee](https://github.com/chaoss/chaoss-asia/wiki/New-Contributor-Welcome-Committee)
 - Discovering the unique challenges of OSS Communities in Asia and creating initiatives around them.
- - If you're interested in helping us, please check out our [linked issues](https://github.com/chaoss/chaoss-asia/issues)
+  - If you're interested in helping us, please check out our [linked issues](https://github.com/chaoss/chaoss-asia/issues)
 - Helping with standardization of the existing metrics and metric models.
 - Working on CHAOSS Software projects, documentation, metrics, and design.
 
